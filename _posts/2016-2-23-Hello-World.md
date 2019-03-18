@@ -11,6 +11,7 @@ Information Graphics of The History of Bio-Artists The purpose is to highlight t
 
 Bio-art approaches to connect with society and predict our future life on the planet. By doing this research and following these art activities, I believe I can get closer to the meaning our existence.
 
-**bold**
+
+
 
 [link to google](www.google.com)
