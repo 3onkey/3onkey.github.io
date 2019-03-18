@@ -18,8 +18,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font-family: mrs-eaves,serif;
+  font-weight: 400;
+  font-style: normal; 
   color: $darkGray;
 }
 
