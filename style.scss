@@ -20,8 +20,6 @@ html {
 body {
   background: $white;
   font-family: mrs-eaves,serif;
-  font-weight: 400;
-  font-style: normal; 
   color: $darkGray;
 }
 
@@ -31,6 +29,13 @@ body {
   padding: 0 10px;
   width: 100%;
 }
+
+head {
+  font-family: mrs-eaves,serif;
+  font-weight: 400;
+  font-style: normal; 
+}
+	
 
 h1, h2, h3, h4, h5, h6 {
   font-family: mrs-eaves,serif;
