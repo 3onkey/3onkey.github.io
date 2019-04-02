@@ -1,8 +1,9 @@
----
-layout: post
-title: 
----
 
+---
+layout: page
+title: Project
+permalink: /blog/
+---
 # Map of Bioart
 
 ## Description
