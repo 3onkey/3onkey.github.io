@@ -7,7 +7,7 @@ permalink: /blog/
 ## Final Presentaiton 
 
 I featured of activity artist of Joe Davis on this map. <br/>
-Here is the presantation file -->  https://3onkey.github.io/images/BHA6_ikemura.pdf
+[Here is the presantation file -->](https://3onkey.github.io/images/BHA6_ikemura.pdf)
 
 
 
